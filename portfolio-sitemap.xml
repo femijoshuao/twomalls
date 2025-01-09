@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on 09/01/2025 at 1:27 PM by All in One SEO v4.4.0.1 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on 09/01/2025 at 2:12 PM by All in One SEO v4.4.0.1 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="default.xsl?sitemap=portfolio"?>
+<?xml-stylesheet type="text/xsl" href="./default.xsl?sitemap=portfolio"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[project-details/eu-technology-summit-organization/index.html]]></loc>
+		<loc><![CDATA[./project-details/eu-technology-summit-organization/]]>/index.html</loc>
 		<lastmod><![CDATA[2017-06-28T01:52:19+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[wp-content/uploads/2017/06/project-5.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2017/06/project-5.jpg]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[http://businesslounge-elementor.rtthemes.com/wp-content/uploads/sites/34/2017/06/light-logo4-180x80.png]]></image:loc>
@@ -47,84 +47,84 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[project-details/tech-drones-lansman/index.html]]></loc>
+		<loc><![CDATA[./project-details/tech-drones-lansman/]]>/index.html</loc>
 		<lastmod><![CDATA[2017-06-28T01:51:56+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[wp-content/uploads/2017/06/project-8.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2017/06/project-8.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[project-details/abc-bank-staff-training/index.html]]></loc>
+		<loc><![CDATA[./project-details/abc-bank-staff-training/]]>/index.html</loc>
 		<lastmod><![CDATA[2017-06-28T01:51:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[wp-content/uploads/2017/06/project-3.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2017/06/project-3.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[project-details/b-capital-finacial-training/index.html]]></loc>
+		<loc><![CDATA[./project-details/b-capital-finacial-training/]]>/index.html</loc>
 		<lastmod><![CDATA[2017-06-28T01:51:15+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[wp-content/uploads/2017/06/project-1.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2017/06/project-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[project-details/wonder-vr-lansman/index.html]]></loc>
+		<loc><![CDATA[./project-details/wonder-vr-lansman/]]>/index.html</loc>
 		<lastmod><![CDATA[2017-06-28T01:50:58+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[wp-content/uploads/2017/06/project-9.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2017/06/project-9.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[project-details/social-media-marketting-seminar/index.html]]></loc>
+		<loc><![CDATA[./project-details/social-media-marketting-seminar/]]>/index.html</loc>
 		<lastmod><![CDATA[2017-06-28T01:50:43+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[wp-content/uploads/2017/06/project-7.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2017/06/project-7.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[project-details/eco-friendly-business-seminar/index.html]]></loc>
+		<loc><![CDATA[./project-details/eco-friendly-business-seminar/]]>/index.html</loc>
 		<lastmod><![CDATA[2017-06-28T01:50:28+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[wp-content/uploads/2017/06/project-10.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2017/06/project-10.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[project-details/wavebank-call-center-training/index.html]]></loc>
+		<loc><![CDATA[./project-details/wavebank-call-center-training/]]>/index.html</loc>
 		<lastmod><![CDATA[2017-06-28T00:50:30+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[wp-content/uploads/2017/06/project-2.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2017/06/project-2.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[project-details/city-app-market-research/index.html]]></loc>
+		<loc><![CDATA[./project-details/city-app-market-research/]]>/index.html</loc>
 		<lastmod><![CDATA[2017-06-28T00:45:16+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[wp-content/uploads/2017/06/project-6.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2017/06/project-6.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[project-details/agricultural-market-analysis-2017/index.html]]></loc>
+		<loc><![CDATA[./project-details/agricultural-market-analysis-2017/]]>/index.html</loc>
 		<lastmod><![CDATA[2017-06-28T00:39:44+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[wp-content/uploads/2017/06/project-4.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2017/06/project-4.jpg]]></image:loc>
 		</image:image>
 	</url>
 </urlset>

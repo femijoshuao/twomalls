@@ -1,0 +1,427 @@
+
+---Downloaded files---
+The import files for: Split were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://twomall.bsahearing.com
+Data file = /home4/bsahexjb/twomall.bsahearing.com/wp-content/themes/twomall/inc/demos/all/main/contents.xml
+Widget file = /home4/bsahexjb/twomall.bsahearing.com/wp-content/themes/twomall/inc/demos/all/main/widgets.wie
+Customizer file = not defined!
+Redux files:
+wavee_opt -> /home4/bsahexjb/twomall.bsahearing.com/wp-content/themes/twomall/inc/demos/all/main/settings.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Armchair DAR
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Chair &amp; Tables
+[WARNING] Failed to import product_cat Cleaning Tools
+[WARNING] Failed to import product_cat Coffeepots Teapots
+[WARNING] Failed to import product_cat DAR Armchair
+[WARNING] Failed to import product_cat Decorate &amp; Lighting
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Headphone
+[WARNING] Failed to import product_cat Home Accessories
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import product_cat Lighting
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Sphere Light
+[WARNING] Failed to import product_cat Teakettles
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Windsor chair
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import "Attribute Title": Invalid post type acf-field
+[WARNING] Failed to import "Attribute Value": Invalid post type acf-field
+[WARNING] Failed to import "Progress Percentage": Invalid post type acf-field
+[WARNING] Failed to import "Color": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Featured Image": Invalid post type acf-field
+[WARNING] Failed to import "Styling": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Shortcode": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Subtitle": Invalid post type acf-field
+[WARNING] Failed to import "Buttons": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Icon": Invalid post type acf-field
+[WARNING] Failed to import "Button Color": Invalid post type acf-field
+[WARNING] Failed to import "Button Type": Invalid post type acf-field
+[WARNING] Failed to import "Image 01": Invalid post type acf-field
+[WARNING] Failed to import "Full Image": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Subtitle": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Featured Image": Invalid post type acf-field
+[WARNING] Failed to import "Hotspots": Invalid post type acf-field
+[WARNING] Failed to import "Pointer Image": Invalid post type acf-field
+[WARNING] Failed to import "Position Horizontal": Invalid post type acf-field
+[WARNING] Failed to import "Position Vertical": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Progress Bars": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Progress Percentage": Invalid post type acf-field
+[WARNING] Failed to import "Color": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Featured Image": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Shortcode": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Subtitle": Invalid post type acf-field
+[WARNING] Failed to import "Buttons": Invalid post type acf-field
+[WARNING] Failed to import "Button Icon": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Button Color": Invalid post type acf-field
+[WARNING] Failed to import "Button Type": Invalid post type acf-field
+[WARNING] Failed to import "Image 01": Invalid post type acf-field
+[WARNING] Failed to import "Image 02": Invalid post type acf-field
+[WARNING] Failed to import "Image": Invalid post type acf-field
+[WARNING] Failed to import "Attribute Key": Invalid post type acf-field
+[WARNING] Failed to import "Attribute Value": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Armchair DAR
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Chair &amp; Tables
+[WARNING] Failed to import product_cat Cleaning Tools
+[WARNING] Failed to import product_cat Coffeepots Teapots
+[WARNING] Failed to import product_cat DAR Armchair
+[WARNING] Failed to import product_cat Decorate &amp; Lighting
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Headphone
+[WARNING] Failed to import product_cat Home Accessories
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import product_cat Lighting
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Sphere Light
+[WARNING] Failed to import product_cat Teakettles
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Windsor chair
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import "Attribute Title": Invalid post type acf-field
+[WARNING] Failed to import "Attribute Value": Invalid post type acf-field
+[WARNING] Failed to import "Progress Percentage": Invalid post type acf-field
+[WARNING] Failed to import "Color": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Featured Image": Invalid post type acf-field
+[WARNING] Failed to import "Styling": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Shortcode": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Subtitle": Invalid post type acf-field
+[WARNING] Failed to import "Buttons": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Icon": Invalid post type acf-field
+[WARNING] Failed to import "Button Color": Invalid post type acf-field
+[WARNING] Failed to import "Button Type": Invalid post type acf-field
+[WARNING] Failed to import "Image 01": Invalid post type acf-field
+[WARNING] Failed to import "Full Image": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Subtitle": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Featured Image": Invalid post type acf-field
+[WARNING] Failed to import "Hotspots": Invalid post type acf-field
+[WARNING] Failed to import "Pointer Image": Invalid post type acf-field
+[WARNING] Failed to import "Position Horizontal": Invalid post type acf-field
+[WARNING] Failed to import "Position Vertical": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Progress Bars": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Progress Percentage": Invalid post type acf-field
+[WARNING] Failed to import "Color": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Featured Image": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Shortcode": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Subtitle": Invalid post type acf-field
+[WARNING] Failed to import "Buttons": Invalid post type acf-field
+[WARNING] Failed to import "Button Icon": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Button Color": Invalid post type acf-field
+[WARNING] Failed to import "Button Type": Invalid post type acf-field
+[WARNING] Failed to import "Image 01": Invalid post type acf-field
+[WARNING] Failed to import "Image 02": Invalid post type acf-field
+[WARNING] Failed to import "Image": Invalid post type acf-field
+[WARNING] Failed to import "Attribute Key": Invalid post type acf-field
+[WARNING] Failed to import "Attribute Value": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Armchair DAR
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Chair &amp; Tables
+[WARNING] Failed to import product_cat Cleaning Tools
+[WARNING] Failed to import product_cat Coffeepots Teapots
+[WARNING] Failed to import product_cat DAR Armchair
+[WARNING] Failed to import product_cat Decorate &amp; Lighting
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Headphone
+[WARNING] Failed to import product_cat Home Accessories
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import product_cat Lighting
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Sphere Light
+[WARNING] Failed to import product_cat Teakettles
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Windsor chair
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import "Attribute Title": Invalid post type acf-field
+[WARNING] Failed to import "Attribute Value": Invalid post type acf-field
+[WARNING] Failed to import "Progress Percentage": Invalid post type acf-field
+[WARNING] Failed to import "Color": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Featured Image": Invalid post type acf-field
+[WARNING] Failed to import "Styling": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Shortcode": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Subtitle": Invalid post type acf-field
+[WARNING] Failed to import "Buttons": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Icon": Invalid post type acf-field
+[WARNING] Failed to import "Button Color": Invalid post type acf-field
+[WARNING] Failed to import "Button Type": Invalid post type acf-field
+[WARNING] Failed to import "Image 01": Invalid post type acf-field
+[WARNING] Failed to import "Full Image": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Subtitle": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Featured Image": Invalid post type acf-field
+[WARNING] Failed to import "Hotspots": Invalid post type acf-field
+[WARNING] Failed to import "Pointer Image": Invalid post type acf-field
+[WARNING] Failed to import "Position Horizontal": Invalid post type acf-field
+[WARNING] Failed to import "Position Vertical": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Progress Bars": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Progress Percentage": Invalid post type acf-field
+[WARNING] Failed to import "Color": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Featured Image": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Shortcode": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Subtitle": Invalid post type acf-field
+[WARNING] Failed to import "Buttons": Invalid post type acf-field
+[WARNING] Failed to import "Button Icon": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Button Color": Invalid post type acf-field
+[WARNING] Failed to import "Button Type": Invalid post type acf-field
+[WARNING] Failed to import "Image 01": Invalid post type acf-field
+[WARNING] Failed to import "Image 02": Invalid post type acf-field
+[WARNING] Failed to import "Image": Invalid post type acf-field
+[WARNING] Failed to import "Attribute Key": Invalid post type acf-field
+[WARNING] Failed to import "Attribute Value": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Armchair DAR
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Chair &amp; Tables
+[WARNING] Failed to import product_cat Cleaning Tools
+[WARNING] Failed to import product_cat Coffeepots Teapots
+[WARNING] Failed to import product_cat DAR Armchair
+[WARNING] Failed to import product_cat Decorate &amp; Lighting
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Headphone
+[WARNING] Failed to import product_cat Home Accessories
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import product_cat Lighting
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Sphere Light
+[WARNING] Failed to import product_cat Teakettles
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Windsor chair
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import "Attribute Title": Invalid post type acf-field
+[WARNING] Failed to import "Attribute Value": Invalid post type acf-field
+[WARNING] Failed to import "Progress Percentage": Invalid post type acf-field
+[WARNING] Failed to import "Color": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Featured Image": Invalid post type acf-field
+[WARNING] Failed to import "Styling": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Shortcode": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Subtitle": Invalid post type acf-field
+[WARNING] Failed to import "Buttons": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Icon": Invalid post type acf-field
+[WARNING] Failed to import "Button Color": Invalid post type acf-field
+[WARNING] Failed to import "Button Type": Invalid post type acf-field
+[WARNING] Failed to import "Image 01": Invalid post type acf-field
+[WARNING] Failed to import "Full Image": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Subtitle": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Featured Image": Invalid post type acf-field
+[WARNING] Failed to import "Hotspots": Invalid post type acf-field
+[WARNING] Failed to import "Pointer Image": Invalid post type acf-field
+[WARNING] Failed to import "Position Horizontal": Invalid post type acf-field
+[WARNING] Failed to import "Position Vertical": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Progress Bars": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Progress Percentage": Invalid post type acf-field
+[WARNING] Failed to import "Color": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Featured Image": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Shortcode": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Subtitle": Invalid post type acf-field
+[WARNING] Failed to import "Buttons": Invalid post type acf-field
+[WARNING] Failed to import "Button Icon": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Button Color": Invalid post type acf-field
+[WARNING] Failed to import "Button Type": Invalid post type acf-field
+[WARNING] Failed to import "Image 01": Invalid post type acf-field
+[WARNING] Failed to import "Image 02": Invalid post type acf-field
+[WARNING] Failed to import "Image": Invalid post type acf-field
+[WARNING] Failed to import "Attribute Key": Invalid post type acf-field
+[WARNING] Failed to import "Attribute Value": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Armchair DAR
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Chair &amp; Tables
+[WARNING] Failed to import product_cat Cleaning Tools
+[WARNING] Failed to import product_cat Coffeepots Teapots
+[WARNING] Failed to import product_cat DAR Armchair
+[WARNING] Failed to import product_cat Decorate &amp; Lighting
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Headphone
+[WARNING] Failed to import product_cat Home Accessories
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import product_cat Lighting
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Sphere Light
+[WARNING] Failed to import product_cat Teakettles
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Windsor chair
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import "Attribute Title": Invalid post type acf-field
+[WARNING] Failed to import "Attribute Value": Invalid post type acf-field
+[WARNING] Failed to import "Progress Percentage": Invalid post type acf-field
+[WARNING] Failed to import "Color": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Featured Image": Invalid post type acf-field
+[WARNING] Failed to import "Styling": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Shortcode": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Subtitle": Invalid post type acf-field
+[WARNING] Failed to import "Buttons": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Icon": Invalid post type acf-field
+[WARNING] Failed to import "Button Color": Invalid post type acf-field
+[WARNING] Failed to import "Button Type": Invalid post type acf-field
+[WARNING] Failed to import "Image 01": Invalid post type acf-field
+[WARNING] Failed to import "Full Image": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Subtitle": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Featured Image": Invalid post type acf-field
+[WARNING] Failed to import "Hotspots": Invalid post type acf-field
+[WARNING] Failed to import "Pointer Image": Invalid post type acf-field
+[WARNING] Failed to import "Position Horizontal": Invalid post type acf-field
+[WARNING] Failed to import "Position Vertical": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Progress Bars": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Progress Percentage": Invalid post type acf-field
+[WARNING] Failed to import "Color": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Featured Image": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Shortcode": Invalid post type acf-field
+[WARNING] Failed to import "Title": Invalid post type acf-field
+[WARNING] Failed to import "Subtitle": Invalid post type acf-field
+[WARNING] Failed to import "Buttons": Invalid post type acf-field
+[WARNING] Failed to import "Button Icon": Invalid post type acf-field
+[WARNING] Failed to import "Button": Invalid post type acf-field
+[WARNING] Failed to import "Button Color": Invalid post type acf-field
+[WARNING] Failed to import "Button Type": Invalid post type acf-field
+[WARNING] Failed to import "Image 01": Invalid post type acf-field
+[WARNING] Failed to import "Image 02": Invalid post type acf-field
+[WARNING] Failed to import "Image": Invalid post type acf-field
+[WARNING] Failed to import "Attribute Key": Invalid post type acf-field
+[WARNING] Failed to import "Attribute Value": Invalid post type acf-field
+
